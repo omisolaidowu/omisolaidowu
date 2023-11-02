@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<!--
-**omisolaidowu/omisolaidowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Results-Driven Technical Writer | 🖥️ Self-Taught Programmer | 🐍 Python, 🌐 JavaScript, 🐹 Go | 📚 Technical Documentation Expert | 📱 Web Automation Enthusiast | 📹 YouTuber
 
+## About Me
+
+Welcome to my GitHub profile! I'm Idowu Omisola, a passionate technical writer and a self-taught programmer with a deep love for Python, JavaScript, Go, and all things consumer tech and web automation. With over four years of experience under my belt, I've honed my skills in delivering impactful technical documentation, creating knowledge, and solving problems.
+
+In addition to my written content, I'm also an active YouTuber, sharing in-depth tutorials and insights into the world of programming through video content.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
