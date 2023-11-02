@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚀 Results-Driven Technical Writer | 🖥️ Self-Taught Programmer | 🐍 Python, 🌐 JavaScript, 🐹 Go | 📚 Technical Documentation Expert | 📱 Web Automation Enthusiast | 📹 YouTuber
+I am a: 🚀 Results-Driven Technical Writer | 🖥️ Self-Taught Programmer | 🐍 Python, 🌐 JavaScript, 🐹 Go | 📚 Technical Documentation Expert | 📱 Web Automation Enthusiast | 📹 YouTuber
 
 ## About Me
 
